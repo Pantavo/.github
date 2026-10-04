@@ -1,5 +1,6 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/pantavo/pantavo/main/.github/assets/logo.png" alt="Pantavo" width="110">
+  <!--<img src="https://raw.githubusercontent.com/pantavo/pantavo/main/.github/assets/logo.png" alt="Pantavo" width="110">-->
+  <img src="https://github.com/Pantavo/.github/blob/5e3a892f5205221e54c2131f8d352799f86b7373/assets/logo.png" alt="Pantavo" width="110">
 </p>
 
 <h2 align="center">Pantavo</h2>
